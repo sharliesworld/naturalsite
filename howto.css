@@ -5,7 +5,7 @@
     
   body {
     margin: 0;
-    padding: 0;
+    padding: 200;
     text-align: center;
     font-family: 'Akshar', sans-serif;
     color: #193C40;
@@ -95,10 +95,9 @@ a:hover {
     border-radius: 50%;
   }
   .card { 
-    margin: 30px;
+    margin: 30px auto;
     padding: 20px;
     max-width: 1500px;
-    text-align: centre;
     background-color: #f7f5f2;
     border: 1px solid #d0d7d7;
     
@@ -112,6 +111,7 @@ a:hover {
         max-width: 1200px;
         justify-content: space-around;
         margin: 0 auto;
+        padding: 200;
     }
   
     header {
